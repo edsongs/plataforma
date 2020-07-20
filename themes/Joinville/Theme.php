@@ -1,6 +1,6 @@
 <?php
 namespace Joinville;
-use MapasCulturais\Themes\BaseV1;
+//use MapasCulturais\Themes\BaseV1;
 use MapasCulturais\App;
 
 class Theme extends BaseV1\Theme{
